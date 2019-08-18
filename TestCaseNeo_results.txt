@@ -1,0 +1,10 @@
+Case 1
+Optimization resuts: C1= 400.0004  K= 300.0009
+Case 2
+Optimization resuts: C1= 750.0015  K= 200.0005
+Case 2
+Optimization resuts: C1= 500.0005  K= 500.0007
+Case 4
+Optimization resuts: C1= 899.9993  K= 700.0012
+Case 5
+Optimization resuts: C1= 200.0001  K= 399.9998
